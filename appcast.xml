@@ -5,5 +5,13 @@
     <link>https://github.com/zhangqiaoran/glide33</link>
     <description>Signed updates for Glide3</description>
     <language>en</language>
+    <item>
+      <title>3.2.1</title>
+      <pubDate>Sat, 03 Oct 2026 06:44:14 +0000</pubDate>
+      <sparkle:version>30201</sparkle:version>
+      <sparkle:shortVersionString>3.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zhangqiaoran/glide33/releases/download/v3.2.1/Glide3-3.2.1.dmg" sparkle:edSignature="r6sQn0J0kjGqkJeKEM0EXXb3QHydJx7Ek78GCrlf+/hxYmfM0ECKHJEG6JjhUE4z04xeAbCjx/Ld2HDSr4MZDw==" length="6374923" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>

@@ -7,11 +7,11 @@
     <language>en</language>
     <item>
       <title>3.2.7</title>
-      <pubDate>Fri, 09 Oct 2026 15:27:16 +0000</pubDate>
+      <pubDate>Sat, 10 Oct 2026 07:11:44 +0000</pubDate>
       <sparkle:version>30207</sparkle:version>
       <sparkle:shortVersionString>3.2.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/zhangqiaoran/glide33/releases/download/v3.2.7/Glide3-3.2.7.dmg" sparkle:edSignature="pdFvKeCEw0LdzvVn0ruAlx6cF0g0zcJTTbOvqckdYBULqhYPTMan0ULeri3wgaMNN3HCQ3N0uq/Qi8ihhDDOCA==" length="6511633" type="application/octet-stream"/>
+      <enclosure url="https://github.com/zhangqiaoran/glide33/releases/download/v3.2.7/Glide3-3.2.7.dmg" sparkle:edSignature="b5kZFeigsHBDv9nh8NLUWZ8DF15Fr07Jy/HE2rg7PC49PO72Zbs1QDsTGd1RCFd/2LuWnGemi0H3lw/mOuq2CQ==" length="6511598" type="application/octet-stream"/>
     </item>
     <item>
       <title>3.2.6</title>

@@ -6,6 +6,14 @@
     <description>Signed updates for Glide3</description>
     <language>en</language>
     <item>
+      <title>3.3.0</title>
+      <pubDate>Mon, 19 Oct 2026 16:18:37 +0000</pubDate>
+      <sparkle:version>30300</sparkle:version>
+      <sparkle:shortVersionString>3.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/zhangqiaoran/glide33/releases/download/v3.3.0/Glide3-3.3.0.dmg" sparkle:edSignature="yKBZOVSVpJAaCdKVe0aVCYrbKmqRQEj50+uXmOa88lMHbpsvZoNWUWP3wzbM/mATUoTG97Rd9qD1sThPYmYVAw==" length="9431593" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>3.2.9</title>
       <pubDate>Mon, 19 Oct 2026 03:04:57 +0000</pubDate>
       <sparkle:version>30209</sparkle:version>
